@@ -1,1 +1,7 @@
 HW 4
+2a_results: final w + error of train and test set for each combination of gamma, a, and C
+2b_results: final w + error of train and test set for each combination of gamma and C
+3a_results: final w and b + error of train and test set for the hyperparameter (you should change hyperparameter)
+3b_results: the final b + error of train and test set for each combination of gamma and C
+3c_results: Number of Support Vectors related to each combination of gamma and C + Number of overlapped for 500/873
+3d_results: the error of the test and train set for each gamma
